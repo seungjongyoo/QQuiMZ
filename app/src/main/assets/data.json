@@ -1,0 +1,548 @@
+[
+  {
+    "token": "user_001",
+    "point": 876,
+    "isFriend": [
+      "user_017",
+      "user_024",
+      "user_002",
+      "user_035",
+      "user_040"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_002",
+    "point": 1392,
+    "isFriend": [
+      "user_043",
+      "user_027",
+      "user_026",
+      "user_010",
+      "user_040",
+      "user_006"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_003",
+    "point": 1408,
+    "isFriend": [
+      "user_031",
+      "user_021",
+      "user_040",
+      "user_023",
+      "user_046",
+      "user_018",
+      "user_020"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_004",
+    "point": 1300,
+    "isFriend": [
+      "user_001",
+      "user_040",
+      "user_008",
+      "user_010",
+      "user_033",
+      "user_031"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_005",
+    "point": 1317,
+    "isFriend": [
+      "user_050",
+      "user_045",
+      "user_003",
+      "user_025"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_006",
+    "point": 1186,
+    "isFriend": [
+      "user_013",
+      "user_010",
+      "user_012",
+      "user_023",
+      "user_008",
+      "user_001",
+      "user_019",
+      "user_014",
+      "user_047"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_007",
+    "point": 24,
+    "isFriend": [
+      "user_029",
+      "user_049",
+      "user_031",
+      "user_046",
+      "user_004",
+      "user_044"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_008",
+    "point": 1717,
+    "isFriend": [
+      "user_007",
+      "user_039",
+      "user_025",
+      "user_001",
+      "user_002",
+      "user_036",
+      "user_048",
+      "user_004",
+      "user_044"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_009",
+    "point": 1557,
+    "isFriend": [],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_010",
+    "point": 120,
+    "isFriend": [
+      "user_047",
+      "user_035",
+      "user_030",
+      "user_024",
+      "user_008",
+      "user_007"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_011",
+    "point": 329,
+    "isFriend": [],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_012",
+    "point": 445,
+    "isFriend": [],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_013",
+    "point": 1940,
+    "isFriend": [
+      "user_011",
+      "user_018",
+      "user_010",
+      "user_036"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_014",
+    "point": 1025,
+    "isFriend": [
+      "user_031",
+      "user_024"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_015",
+    "point": 13,
+    "isFriend": [],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_016",
+    "point": 1818,
+    "isFriend": [
+      "user_043",
+      "user_048",
+      "user_036",
+      "user_025",
+      "user_027",
+      "user_020"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_017",
+    "point": 1131,
+    "isFriend": [
+      "user_046",
+      "user_039"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_018",
+    "point": 1410,
+    "isFriend": [
+      "user_019",
+      "user_036",
+      "user_003",
+      "user_002",
+      "user_046",
+      "user_030"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_019",
+    "point": 1761,
+    "isFriend": [
+      "user_018",
+      "user_030",
+      "user_003",
+      "user_022",
+      "user_012"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_020",
+    "point": 486,
+    "isFriend": [
+      "user_005"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_021",
+    "point": 1195,
+    "isFriend": [
+      "user_031",
+      "user_019"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_022",
+    "point": 954,
+    "isFriend": [
+      "user_039",
+      "user_041",
+      "user_031",
+      "user_020"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_023",
+    "point": 174,
+    "isFriend": [
+      "user_011",
+      "user_015",
+      "user_030"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_024",
+    "point": 1917,
+    "isFriend": [
+      "user_035",
+      "user_050",
+      "user_007",
+      "user_042",
+      "user_028"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_025",
+    "point": 1645,
+    "isFriend": [
+      "user_028",
+      "user_010"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_026",
+    "point": 1529,
+    "isFriend": [
+      "user_030",
+      "user_008",
+      "user_035",
+      "user_037",
+      "user_002",
+      "user_010",
+      "user_009"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_027",
+    "point": 1012,
+    "isFriend": [
+      "user_042",
+      "user_002"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_028",
+    "point": 1330,
+    "isFriend": [
+      "user_004",
+      "user_012",
+      "user_008",
+      "user_027",
+      "user_040",
+      "user_007"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_029",
+    "point": 1681,
+    "isFriend": [
+      "user_031",
+      "user_049",
+      "user_032",
+      "user_013",
+      "user_001",
+      "user_003",
+      "user_048",
+      "user_009"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_030",
+    "point": 548,
+    "isFriend": [
+      "user_001"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_031",
+    "point": 852,
+    "isFriend": [
+      "user_050",
+      "user_035"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_032",
+    "point": 1915,
+    "isFriend": [
+      "user_008",
+      "user_016"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_033",
+    "point": 1203,
+    "isFriend": [
+      "user_037",
+      "user_036",
+      "user_040",
+      "user_038",
+      "user_044",
+      "user_050",
+      "user_015"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_034",
+    "point": 1683,
+    "isFriend": [
+      "user_047",
+      "user_029",
+      "user_043"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_035",
+    "point": 717,
+    "isFriend": [
+      "user_001",
+      "user_026",
+      "user_011",
+      "user_044",
+      "user_048",
+      "user_031"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_036",
+    "point": 1423,
+    "isFriend": [
+      "user_011",
+      "user_020",
+      "user_004",
+      "user_048",
+      "user_018"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_037",
+    "point": 1031,
+    "isFriend": [
+      "user_001",
+      "user_013"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_038",
+    "point": 2,
+    "isFriend": [
+      "user_041",
+      "user_001",
+      "user_048"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_039",
+    "point": 9,
+    "isFriend": [
+      "user_017",
+      "user_021",
+      "user_033"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_040",
+    "point": 916,
+    "isFriend": [
+      "user_041"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_041",
+    "point": 1966,
+    "isFriend": [
+      "user_011"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_042",
+    "point": 1592,
+    "isFriend": [
+      "user_026",
+      "user_018",
+      "user_023",
+      "user_014",
+      "user_043",
+      "user_035",
+      "user_048",
+      "user_037"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_043",
+    "point": 186,
+    "isFriend": [
+      "user_029",
+      "user_031",
+      "user_048",
+      "user_028",
+      "user_044",
+      "user_018"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_044",
+    "point": 1137,
+    "isFriend": [
+      "user_015",
+      "user_007",
+      "user_032",
+      "user_045",
+      "user_029",
+      "user_036",
+      "user_024",
+      "user_041"
+    ],
+    "achievement": "bronze"
+  },
+  {
+    "token": "user_045",
+    "point": 840,
+    "isFriend": [
+      "user_009",
+      "user_046",
+      "user_010",
+      "user_021"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_046",
+    "point": 1342,
+    "isFriend": [
+      "user_049"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_047",
+    "point": 1028,
+    "isFriend": [
+      "user_006",
+      "user_021",
+      "user_048",
+      "user_032"
+    ],
+    "achievement": "silver"
+  },
+  {
+    "token": "user_048",
+    "point": 1686,
+    "isFriend": [
+      "user_035"
+    ],
+    "achievement": "none"
+  },
+  {
+    "token": "user_049",
+    "point": 1338,
+    "isFriend": [
+      "user_027",
+      "user_020",
+      "user_034",
+      "user_013",
+      "user_035",
+      "user_029",
+      "user_017",
+      "user_031"
+    ],
+    "achievement": "gold"
+  },
+  {
+    "token": "user_050",
+    "point": 1486,
+    "isFriend": [
+      "user_016"
+    ],
+    "achievement": "bronze"
+  }
+]
